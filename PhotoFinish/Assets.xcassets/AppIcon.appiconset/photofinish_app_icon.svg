@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="12.656244"
+   inkscape:export-xdpi="12.656244"
+   inkscape:export-filename="/Users/almulla/Desktop/PhotoFinish/photofinish-ios/PhotoFinish/PhotoFinish/Assets.xcassets/AppIcon.appiconset/photofinish_app_icon_180x180.png"
+   version="1.1"
+   id="svg126"
+   width="1365.3333"
+   height="1365.3333"
+   viewBox="0 0 1365.3333 1365.3333"
+   sodipodi:docname="photofinish_app_icon.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <metadata
+     id="metadata132">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs130" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     id="namedview128"
+     showgrid="false"
+     inkscape:zoom="0.43885489"
+     inkscape:cx="462.9932"
+     inkscape:cy="690.6688"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g134"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g134">
+    <rect
+       y="63.80241"
+       x="45.573151"
+       height="1228.1964"
+       width="1239.5897"
+       id="rect153"
+       style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Top Circle"
+     style="display:inline">
+    <path
+       id="rect184"
+       style="fill:#8f8f8f;fill-opacity:1;fill-rule:evenodd"
+       d="M 0,0 V 1365.334 H 1365.334 V 0 Z m 683.17773,143.55469 a 544.59918,555.99243 0 0 1 0.41993,0 A 544.59918,555.99243 0 0 1 1228.1973,699.54688 544.59918,555.99243 0 0 1 683.59766,1255.541 544.59918,555.99243 0 0 1 138.99805,699.54688 544.59918,555.99243 0 0 1 683.17773,143.55469 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Top Center Circle"
+     style="display:inline">
+    <ellipse
+       ry="286.13837"
+       rx="280.2749"
+       cy="705.0777"
+       cx="681.87592"
+       id="path1029-6"
+       style="display:inline;fill:#8f8f8f;fill-opacity:1;stroke-width:0.455265" />
+  </g>
+</svg>

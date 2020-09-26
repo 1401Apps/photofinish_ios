@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  PhotoFinish
 //
-//  Created by Andreas Papazafeiropoulos on 4/13/20.
-//  Copyright © 2020 1401Apps. All rights reserved.
+//  Created by Saoud Almulla on 5/31/20.
+//  Copyright © 2020 Sleepy Studios. All rights reserved.
 //
 
 import UIKit
@@ -25,7 +25,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Use a UIHostingController as window root view controller.
         if let windowScene = scene as? UIWindowScene {
             let window = UIWindow(windowScene: windowScene)
-            window.rootViewController = UIHostingController(rootView: contentView)
+            window.rootViewController = UIHostingController(
+                rootView: contentView
+                    .environmentObject(UserData()))
             self.window = window
             window.makeKeyAndVisible()
         }

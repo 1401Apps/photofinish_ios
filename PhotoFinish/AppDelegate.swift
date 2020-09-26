@@ -2,17 +2,14 @@
 //  AppDelegate.swift
 //  PhotoFinish
 //
-//  Created by Andreas Papazafeiropoulos on 4/13/20.
-//  Copyright © 2020 1401Apps. All rights reserved.
+//  Created by Saoud Almulla on 5/31/20.
+//  Copyright © 2020 Sleepy Studios. All rights reserved.
 //
 
 import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
@@ -32,6 +29,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
     }
 
+    // ADDED: Code to restrict rotation
+    var restrictRotation:UIInterfaceOrientationMask = .portrait
 
+    func application(_ application: UIApplication, supportedInterfaceOrientationsFor window: UIWindow?) -> UIInterfaceOrientationMask
+    {
+        return self.restrictRotation
+    }
 }
 
